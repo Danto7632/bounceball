@@ -54,8 +54,7 @@ MIT App Inventor를 기반으로 만든 **공 튀기기 게임(BounceBall Game)*
 
 ## 🎥 시연 영상
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CbAu8zc7Wk0"  
-title="공 튀기기 게임 시연" frameborder="0" allowfullscreen></iframe>
+[![공 튀기기 게임 시연](https://img.youtube.com/vi/CbAu8zc7Wk0/mqdefault.jpg)](https://youtube.com/shorts/CbAu8zc7Wk0?si=-ZkcBR7SJ49IaNzP)
 
 ---
 
